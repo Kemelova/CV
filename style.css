@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(0, 81, 255, 0.322);
+}
+h1{
+    color: #ee2e2e;
+    font-size: 200 px;
+}
+h3{
+    color: blue;
+    font-size: 100 px;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+a{
+    color: blue;
+}
